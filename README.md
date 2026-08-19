@@ -1,2 +1,6 @@
 # software-requirements-specification-for-e-book-management-system
-The E-Book Management System is a web-based platform designed to manage and access digital books efficiently. Users can register, log in, search, browse, read, download, bookmark, rate, and review e-books. Administrators can add, update, or remove books, manage users and categories, monitor downloads, and maintain secure, organized digital content.
+This project is created for academic demonstration purpose only
+Software Configuration Management using GitHub.
+Student Name: L.Srujan
+Roll Number: 25B81A6659
+Class: CSM-A
